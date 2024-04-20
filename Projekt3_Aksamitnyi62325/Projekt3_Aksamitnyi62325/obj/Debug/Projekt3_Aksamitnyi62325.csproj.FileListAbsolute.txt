@@ -1,0 +1,12 @@
+C:\Users\volko\OneDrive\Рабочий стол\Projekt3_Aksamitnyi62325\Projekt3_Aksamitnyi62325\obj\Debug\Projekt3_Aksamitnyi62325.csproj.AssemblyReference.cache
+C:\Users\volko\OneDrive\Рабочий стол\Projekt3_Aksamitnyi62325\Projekt3_Aksamitnyi62325\obj\Debug\Projekt3_Aksamitnyi62325.Polyhedrons_Form.resources
+C:\Users\volko\OneDrive\Рабочий стол\Projekt3_Aksamitnyi62325\Projekt3_Aksamitnyi62325\obj\Debug\Projekt3_Aksamitnyi62325.Properties.Resources.resources
+C:\Users\volko\OneDrive\Рабочий стол\Projekt3_Aksamitnyi62325\Projekt3_Aksamitnyi62325\obj\Debug\Projekt3_Aksamitnyi62325.RotatingFigure_Form.resources
+C:\Users\volko\OneDrive\Рабочий стол\Projekt3_Aksamitnyi62325\Projekt3_Aksamitnyi62325\obj\Debug\Projekt3_Aksamitnyi62325.csproj.GenerateResource.cache
+C:\Users\volko\OneDrive\Рабочий стол\Projekt3_Aksamitnyi62325\Projekt3_Aksamitnyi62325\obj\Debug\Projekt3_Aksamitnyi62325.csproj.CoreCompileInputs.cache
+C:\Users\volko\OneDrive\Рабочий стол\Projekt3_Aksamitnyi62325\Projekt3_Aksamitnyi62325\bin\Debug\Projekt3_Aksamitnyi62325.exe.config
+C:\Users\volko\OneDrive\Рабочий стол\Projekt3_Aksamitnyi62325\Projekt3_Aksamitnyi62325\bin\Debug\Projekt3_Aksamitnyi62325.exe
+C:\Users\volko\OneDrive\Рабочий стол\Projekt3_Aksamitnyi62325\Projekt3_Aksamitnyi62325\bin\Debug\Projekt3_Aksamitnyi62325.pdb
+C:\Users\volko\OneDrive\Рабочий стол\Projekt3_Aksamitnyi62325\Projekt3_Aksamitnyi62325\obj\Debug\Projekt3_Aksamitnyi62325.exe
+C:\Users\volko\OneDrive\Рабочий стол\Projekt3_Aksamitnyi62325\Projekt3_Aksamitnyi62325\obj\Debug\Projekt3_Aksamitnyi62325.pdb
+C:\Users\volko\OneDrive\Рабочий стол\Projekt3_Aksamitnyi62325\Projekt3_Aksamitnyi62325\obj\Debug\Projekt3_Aksamitnyi62325.home_Form.resources
